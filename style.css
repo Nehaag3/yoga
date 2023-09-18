@@ -1,0 +1,179 @@
+.navbar{
+    display: flex;
+   gap: 20px;
+   margin-left: 900px;
+  /* margin-top: -10px;  */
+}
+.nav{
+    display: flex;
+    gap: 30px;
+    margin-top: -60px;
+}
+.main-logo{
+    height: 800px;
+    width: 1500px;
+    background-size: cover;
+    background-image: url("yogga.jpg" );
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+.clay{
+    justify-content: center;
+    text-align: center;
+}
+.big-box{
+   display: flex;
+   justify-content: center;
+   margin-top: 50px;
+   
+}
+.text{
+    width: 800px;
+    height: 500px;
+    background-color: rgb(8, 7, 7);
+    color: aliceblue;
+    
+    
+}
+.box-2{
+    display: flex;
+    
+}
+.text-2{
+    width: 800px;
+    height: 500px;
+    margin-top: 200px;
+    background-color: black;
+    color: aliceblue;
+}
+.price{
+    display: flex;
+    margin-top: 100px;
+   justify-content: center;
+   text-align: center;
+    
+}
+ .people{
+    margin-top: 200px;
+    justify-content: center;
+    text-align: center;
+ }
+ .heading{
+    font-size: 70px;
+ }
+ .para{
+    font-size: 25px;
+ }
+ .comment{
+    height: 400px;
+    width: 700px;
+    box-shadow: 2px;
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-top: 100px;
+    background-color: whitesmoke;
+ }
+
+ .fom2{
+    
+display: flex;
+margin-top: 100px;
+
+ }
+ .contact{
+    margin-left: 100px;
+    height: 1500px;
+    width: 90%;
+    background-color: #343a40;
+ }
+ .main-form{
+    height: 450px;
+    width: 350px;
+    background-color: aliceblue;
+    margin-top: 120px;
+ 
+ }
+ .form{
+    
+    padding: 20px;
+    border-radius: 20px;
+   
+   
+ }
+ .name{
+    height: 50px;
+    width: 250px;
+    box-shadow: 2px;
+    border-radius: 10px;
+    border-color: aliceblue;
+ }
+ .but-cls{
+    padding:10px;
+    width: 90px;
+    margin-left: 20px;
+    background-color: orange;
+ }
+ .content{
+    height:450px ;
+    width: 500px;
+    background-color: black;
+    margin-top: 120px;
+ }
+ .subs{
+    border-bottom: 5px solid saddlebrown;
+    height: 60px;
+    width: 600px;
+   font-size: 20px;
+    margin-top: 90px;
+    
+    margin-left: 260px;
+ }
+ .subscribe{
+   display: flex;
+   gap: 20px;
+   width: 800px;
+ }
+ .sub-btn{
+ 
+    margin-top: 45px;
+    height: 50px;
+    width: 150px;
+   
+ }
+ .enter{
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 180px;
+ }
+ .bottom-form{
+    border-bottom: 3px solid whitesmoke;
+    height: 350px;
+    width: 1250px;
+    margin-left: -200px;
+ }
+ .last{
+    width: 1200px;
+    gap: 100px;
+display: flex;
+}
+.links{
+   
+    margin-right: 80px;
+}
+.top-yoga{
+    margin-right: 50px;
+    gap: 10px;
+}
+.local{
+    font-size: 20px;
+    gap: 15px;
+   
+}
+.logos{
+   border-radius: 30px;
+   background-color:#343a40 ;
+   margin-top: 20px;
+}
